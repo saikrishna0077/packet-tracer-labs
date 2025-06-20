@@ -32,6 +32,5 @@ This lab file (`.pka`) was completed as part of Cisco Networking Academy trainin
 To open this file, install **Cisco Packet Tracer**:
 - Download: [Cisco NetAcad Packet Tracer](https://www.netacad.com/portal/resources/packet-tracer)
 
----
-
-Let me know if you'd like to include screenshots or write a section for "Lab Steps Taken" or "Reflections/Learnings."
+---![image](https://github.com/user-attachments/assets/9e5d38c7-d144-4d90-bc8d-ba97a50e1429)
+![image](https://github.com/user-attachments/assets/85b30158-83d5-45bc-bcf4-edbaa9cb2f16)
